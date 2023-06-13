@@ -26,8 +26,8 @@ if(empty($_SESSION['login']))
 }
 ?>
 
-<LI><a href="cadastro_agenda.html"> Cadastrar</a>  </LI>
-<LI><a href="listar_agenda.php"> Listar</a>  </LI>
+<li><a href="cadastro_agenda.html"> Cadastrar</a> </li>
+<li><a href="listar_agenda.php"> Listar</a>  </li>
 
 </ul>
 
